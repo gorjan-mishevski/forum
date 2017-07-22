@@ -20,6 +20,11 @@
   },
   "homepage": "https://github.com/SpartaMK/forum#readme",
   "dependencies": {
-    "express": "^4.15.3"
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "eslint": "^4.3.0"
   }
 }
